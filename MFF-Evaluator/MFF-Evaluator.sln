@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFF-Evaluator", "MFF-Evaluator\MFF-Evaluator.csproj", "{7DD5D264-4A74-42EA-A512-E64021B424CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFF-Evaluator_Tests", "MFF-Evaluator_Tests\MFF-Evaluator_Tests.csproj", "{2043F9F0-E481-4055-A9DF-2FCD9A2D7845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD5D264-4A74-42EA-A512-E64021B424CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD5D264-4A74-42EA-A512-E64021B424CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD5D264-4A74-42EA-A512-E64021B424CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD5D264-4A74-42EA-A512-E64021B424CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2043F9F0-E481-4055-A9DF-2FCD9A2D7845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2043F9F0-E481-4055-A9DF-2FCD9A2D7845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2043F9F0-E481-4055-A9DF-2FCD9A2D7845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2043F9F0-E481-4055-A9DF-2FCD9A2D7845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFF-Excel", "MFF-Excel\MFF-Excel.csproj", "{3BDC28B3-7468-499E-B148-E54329D90D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFF-Excel_Tests", "MFF-Excel_Tests\MFF-Excel_Tests.csproj", "{BE637AE8-6A70-4F81-AF77-BFFBD9ACA267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDC28B3-7468-499E-B148-E54329D90D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDC28B3-7468-499E-B148-E54329D90D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDC28B3-7468-499E-B148-E54329D90D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDC28B3-7468-499E-B148-E54329D90D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE637AE8-6A70-4F81-AF77-BFFBD9ACA267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE637AE8-6A70-4F81-AF77-BFFBD9ACA267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE637AE8-6A70-4F81-AF77-BFFBD9ACA267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE637AE8-6A70-4F81-AF77-BFFBD9ACA267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
